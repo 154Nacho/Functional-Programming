@@ -1,1 +1,1 @@
-Resolution of the sheets of Functional PRgramming Course at University of Minho
+Resolution of the sheets of the Functional Programming Course at the University of Minho
